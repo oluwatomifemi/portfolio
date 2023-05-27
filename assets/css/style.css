@@ -14,6 +14,10 @@ body {
   color: #272829;
 }
 
+p {
+  text-align: justify;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
